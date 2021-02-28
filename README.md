@@ -1,4 +1,4 @@
-<h1> FoodDelivery </h1>
+<h1> FoodSense </h1>
 
 <p>In order to choose a theme for a web application for a Web Systems course, I looked at freelance pages and noticed a demand from owners of food commerce and got some users requirements from them. This application can attend physical and delivery stores.</p>
 
